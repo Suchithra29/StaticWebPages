@@ -1,0 +1,245 @@
+*{
+    margin: 0px;
+}
+
+.sec1{
+    height: 40px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    position: sticky;
+    top: 0px;
+      
+}
+.a{
+    height: 40px;
+    width: 50%;
+    
+    font-size: 20px;
+    padding-left: 100px;
+    align-items: center;
+    color: #4e6779;
+   
+}
+
+.b{
+    height: 40px;
+    width: 50%; 
+    padding-left: 200px;
+    word-spacing: 50px;
+    font: bold 13px/24px Times, "Times New Roman", serif; 
+}
+
+.b a{
+    color: #9a9a9a;
+    text-decoration: none;
+    text-shadow: 1px 1px #000;
+}
+
+.free:hover{
+    color: black;
+}
+
+
+.sec2{
+    height: 100px;
+    width: 100%;
+    background-color: #4e5944 ;
+    display: flex;
+
+}
+
+.logo{
+    height: 100px;
+    width: 50%;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+
+
+.link a{
+    color: #b8c6ac;;
+}
+
+.link a:hover{
+    color: white;
+}
+
+/* .link1:hover{
+    color: white;
+}
+.link2:hover{
+    color: white;
+}
+.link3:hover{
+    color: white;
+}
+.link4:hover{
+    color: white;
+}
+.link5:hover{
+    color: white;
+}
+.link6:hover{
+    color: white;
+} */
+
+ .home{
+    height: 100px;
+    width: 50%;
+    word-spacing: 10px;
+    align-items: center;
+    color: #b8c6ac;
+    font: bold 13px/24px Times, "Times New Roman", serif;
+    text-shadow: 1px 1px #000;
+}
+
+.sec3{
+    height: 400px;
+    width: 100%;
+  
+
+}
+
+.box{
+    height: 400px;
+    width: 80%;
+    display: flex;
+    box-shadow: 2px 1px 20px;
+}
+.c{
+    height: 400px;
+    width: 50%;
+
+}
+.d{
+    height: 400px;
+    width: 50%;
+    background-image: url("https://freewebsitetemplates.com/preview/lawfirm/images/family-large.jpg");
+    background-size: 100% 400px ;
+    background-repeat: no-repeat;
+}
+
+.sec4{
+    height: 250px;
+    width: 100%;
+    display: flex;
+
+}
+
+.e{
+    height: 250px;
+    width: 70%;  
+    color: #4e5944;;
+}
+
+.f{
+    height: 250px;
+    width: 30%;
+    color: #4e5944;;
+}
+
+.sec5{
+    height: 450px;
+    width: 100%;
+    background-color: rgb(231, 229, 229);;
+
+}
+
+.box2{
+    height:350px;
+    width: 80%;
+   
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.g{
+    height: 350px;
+    width: 22%;
+    
+}
+
+
+.h{
+    height: 350px;
+    width: 22%;
+   
+}
+
+
+.i{
+    height: 350px;
+    width: 22%;
+   
+}
+
+
+.j{
+    height: 350px;
+    width: 22%;
+   
+}
+.sec6{
+    height:200px ;
+    width: 100%;
+    background-color: rgb(231, 229, 229);;
+    border-top: 5px solid white;
+
+}
+
+.klm{
+    height: 200px;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.k{
+    height: 200px;
+    width: 33% ;
+    border-right: 1px ridge black ;
+}
+
+
+.l{
+    height: 200px;
+    width: 33% ;
+    border-right: 1px ridge black ;
+}
+
+.m{
+    height: 200px;
+    width: 33% ;
+    
+}
+
+.sec7{
+    height: 50px;
+    width: 100%;
+    background-color: #4e5944 ;
+    display: flex;
+   
+}
+
+.n{
+    height: 50px;
+    width: 50%;
+   
+    
+}
+
+.o{
+    height: 50px;
+    width: 50%;
+
+}
+
+.sec8{
+    height: 50px;
+    width: 100%;
+    background-color: white;
+}
